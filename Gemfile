@@ -4,6 +4,7 @@ gem 'rails', '3.2.13'
 
 gem 'instagram'
 gem 'twitter'
+gem 'oauth2'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
